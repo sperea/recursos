@@ -22,8 +22,6 @@
 - **[WinUtil](https://github.com/ChrisTitusTech/winutil)** — Tweaks y bloatware remover.
 - **[WinScript.cc](https://winscript.cc/)** — Scripts automáticos.
 - **[WinScript GitHub](https://github.com/ChrisTitusTech/winutil)** — Portable + MAS activator.
-- **[UUP Dump](https://uupdump.net/)** — ISOs limpias de Windows.
-- **[MAS Activator](https://massgravel.dev/)** — Activa Windows y Office.
 - **[Genuine Install Media](https://tb.rg-adguard.net/public.php)** — ISO oficiales.
 - **[OldVersion.com](https://www.oldversion.com/)** — Software clásico.
 
